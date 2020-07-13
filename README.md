@@ -1,3 +1,13 @@
+![UCU](https://github.com/ucudal/PII_Conceptos_De_POO/raw/master/Assets/logo-ucu.png)
+
+### FIT - Universidad Católica del Uruguay
+
+<br>
+
+# Examen Extraordinario - Julio 2020.1
+
+![Banner](https://azure.wgp-cdn.co.uk/app-table-top-gaming/posts/all-72050.jpg?&width=1200&height=630&mode=crop)
+
 «La ruta de _Tokaido_, que data del siglo XI, conecta las dos cuidades más importantes de Japón: Edo (hoy llamada Tokio) y Kyoto. [...] Tiene 500km de largo y sigue la costa sur de la isla más grande del archipiélago Japonés: Honshu.»
 
 _Tokaido_ es, además de una ruta en Japón, un juego de mesa muy popular creado por Antoine Bauza. En el juego, viajeros de distintos orígenes atravisan el camino de Edo a Kyoto participando de diversas experiencias en el afán de enriqueser su viaje lo más posible.
@@ -8,9 +18,7 @@ El desafío de este ejercicio es modelar una versión simplificada del juego _To
 
 ### Objetivo del juego original
 
-El objetivo del juego es realizar la mayor cantidad de experiencias posibles, consiguiendo así la mayor cantidad de puntos. Nunca es posible realizar todas las experiencias, por lo que es importante escogerlas estratégicamente.
-
-El juego termina cuando todos los viajeros llegan a Kyoto (final del camino).
+El objetivo del juego es realizar la mayor cantidad de experiencias posibles, consiguiendo así la mayor cantidad de puntos.
 
 ### Viajeros
 
@@ -46,9 +54,15 @@ Con los océanos ocurre algo similar, sólo que los puntos ascienden de 2 en 2. 
 
 Cada experiencia tiene una cantidad máxima de viajeros que pueden visitarlas. Por ejemplo, un sitio de aguas termales podría tener una restricción de 2 viajeros como máximo. Si 2 viajeros estan presentes en dicho sitio, no es posible que otro viajero realice dicha experiencia.
 
+## Referencia gráfica
+
+La siguiente imágen ilustra la versión simplificada del juego descrito.
+
+![Referencia](./Reference.png)
+
 ## Extensibilidad
 
-Se ha presentado una versión simplificada del juego. En el futuro, debe ser posible incorportar los elementos restantes que han sido dejados fuera del alcance (por ejemplo, otros tipos de sitios con formulas de puntos diferentes).
+Se ha presentado una versión simplificada del juego. En el futuro, debe ser posible incorportar los elementos restantes que han sido dejados fuera del alcance. Se destaca en particular nuevos sitios (con formulas de puntos y monedas diferentes) y viajeros que obtienen puntos o monedas extras por visitar determinados lugares (bonos).
 
 # Entregables
 
@@ -60,7 +74,9 @@ Construír el diagrama de clases que permita representar los objetos del modelo 
 
 Construir en un proyecto de C# el modelo del juego diagramado en la parte anterior. Debe implementarse la lógica que permita corroborar que el modelo se comporta acorde a las reglas del juego descritas.
 
-**No es necesario implementar un juego funcional, jugable por consula u otra interfaz de usuario.**. Sí es necesario representar todos los elementos del juego con sus restricciones y lógica de puntos, monedas y movimiento.
+**No es necesario implementar un juego funcional, jugable por consola u otra interfaz de usuario.**. 
+
+Sí es necesario representar todos los elementos del juego con sus restricciones y lógica de puntos, monedas y movimiento.
 
 **Tampoco es necesario implementar un proyecto Program que simule el juego**.
 
@@ -69,6 +85,12 @@ Recuerda justificar mediante comentarios en el código los principios y patrones
 ## Parte 3: Pruebas del modelo
 
 Construír un proyecto de test que permite verificar que el modelo implementado cumple con las reglas del juego descritas.
+
+## Entrega
+
+La entrega se hará por WebAsignatura en la siguiente tarea: https://webasignatura.ucu.edu.uy/mod/assign/view.php?id=261785.
+
+Se deberá entrega un link a un repositorio con la solución, incluyendo todos los entregables mencionados. El repositorio debe tener acceso público.
 
 ## Defensa
 
