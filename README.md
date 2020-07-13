@@ -18,7 +18,7 @@ El desafío de este ejercicio es modelar una versión simplificada del juego _To
 
 ### Objetivo del juego original
 
-El objetivo del juego es realizar la mayor cantidad de experiencias posibles, consiguiendo así la mayor cantidad de puntos.
+El objetivo del juego es realizar la mayor cantidad de experiencias posibles, consiguiendo así la mayor cantidad de puntos. El juego termina cuando todos los viajeros se encuentran en la última experiencia. El viajero con más puntos es el ganador.
 
 ### Viajeros
 
@@ -76,7 +76,7 @@ Construir en un proyecto de C# el modelo del juego diagramado en la parte anteri
 
 **No es necesario implementar un juego funcional, jugable por consola u otra interfaz de usuario.**. 
 
-Sí es necesario representar todos los elementos del juego con sus restricciones y lógica de puntos, monedas y movimiento.
+Sí es necesario representar todos los elementos del juego con sus restricciones y lógica de puntos, monedas, movimiento, condición de finalización y cálculo del ganador.
 
 **Tampoco es necesario implementar un proyecto Program que simule el juego**.
 
