@@ -90,6 +90,8 @@ Construír un proyecto de test que permite verificar que el modelo implementado 
 
 La entrega se hará por WebAsignatura en la siguiente tarea: https://webasignatura.ucu.edu.uy/mod/assign/view.php?id=261785.
 
+Fecha límite: Domingo 19 de Julio a las 23:59. No se aceptarán entregas fuera de fecha.
+
 Se deberá entrega un link a un repositorio con la solución, incluyendo todos los entregables mencionados. El repositorio debe tener acceso público.
 
 ## Defensa
