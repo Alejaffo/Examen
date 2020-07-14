@@ -97,3 +97,7 @@ Se deberá entrega un link a un repositorio con la solución, incluyendo todos l
 ## Defensa
 
 Se tomará una defensa oral de las entregas el día 20 de Julio a las 18.00 por el canal de Zoom de la asignatura.
+
+## Aclaraciones/Dudas
+
+Se responderán dudas sobre la letra de este ejercicio de exámen por el foro de WebAsignatura.
