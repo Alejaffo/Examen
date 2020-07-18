@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Program\obj\Debug\netcoreapp3.1\Program.pdb
