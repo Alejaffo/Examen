@@ -1,8 +1,8 @@
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.deps.json
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.dll
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.pdb
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.dll
-C:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.pdb
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.deps.json
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.dll
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\bin\Debug\netstandard2.0\Library.pdb
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.dll
+c:\Users\Alejandro\Desktop\P2\Examen\PII_Examen_COVID_2020_1\src\Library\obj\Debug\netstandard2.0\Library.pdb

@@ -1,0 +1,13 @@
+#tipoDeExperiencia,disponibilidad
+Granja,2
+AguaTermal,3
+Granja,3
+Granja,5
+AguaTermal,1
+AguaTermal,4
+Oceano,2
+Montania,1
+Granja,2
+Granja,1
+AguaTermal,4
+Oceano,2
